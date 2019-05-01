@@ -38,7 +38,6 @@ Your finished project must include all of the following requirements:
 - A view controller that shows a list of movies that the user has created. This should be a subclass of `UIViewController` that has a `UITableView` in it.
 - The table view should use a custom `UITableViewCell` subclass with a "Seen"/"Not Seen" button. Tapping the button toggles whether the user has seen the movie or not. (This should change the `Movie`'s 
 - A bar button item that segues to a new view controller. This new view controller allows the user to add new movies.
-- Users can swipe to delete movies in the table view.
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts to much and does not.
 
@@ -48,5 +47,6 @@ Validate your work through testing the app on the simulator and ensure that your
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
+- Users can swipe to delete movies in the table view.
 - Introduce a way to edit the name of a movie.
 - The list of movies is preserved between subsequent runs of your application
